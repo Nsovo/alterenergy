@@ -219,7 +219,7 @@
  ------------------------------ */
  
  .smk_accordion .accordion_in.style4 {
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 1px solid #000;
 }
 
 .smk_accordion .accordion_in.style4.acc_active > .acc_head {
